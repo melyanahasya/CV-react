@@ -4,11 +4,11 @@ function CV() {
   return (
     <div className=" text-center "  data-aos="fade-down-left">
         <div>
-        <h1 className="text-[25px] font-bold">Curriculum Vitae</h1>   
          <br />
          <div className='flex bg-purple-100 mx-32 gap-4 p-4'>
-         <img className='w-72' src='https://www.kibrispdr.org/data/399/gambar-kartun-wanita-hijab-cantik-13.jpg' />
-        <div className="text-left mt-14">
+         <img className='w-72' src='https://www.kibrispdr.org/data/399/gambar-kartun-wanita-hijab-cantik-13.jpg' /> 
+        <div className="text-left mt-4">
+        <h1 className="text-[25px] font-bold">Curriculum Vitae</h1>  
           <h2 className="text-[20px] text-purple-500"><i class="fas fa-book"></i> Data Pribadi</h2>
           <hr />
           <p>Nama : Melyana Hasya D</p>
